@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './Artidepor/component/App';
+import App from './Prodpuma/components/App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
