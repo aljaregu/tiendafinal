@@ -5,6 +5,7 @@ import { Bodynik } from './Bodynik';
 function App() {
   return (
     <>
+    
       <Headnik/>
       <Bodynik/>
     </>

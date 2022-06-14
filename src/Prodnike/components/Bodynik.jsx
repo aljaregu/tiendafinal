@@ -9,8 +9,9 @@ import imnik5 from "../images/NAIK5.jpg"
 import imnik6 from "../images/NAIK6.jpg"
 import imnik7 from "../images/NAIK7.jpg"
 import imnik8 from "../images/NAIK8.jpg"
-import imnik9 from "../images/NAIK9.jpg"
 import imnik10 from "../images/NAIK10.jpg"
+import imnik9 from "../images/NAIK9.jpg"
+
 
 const cards = [
     {

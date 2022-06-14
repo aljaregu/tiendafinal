@@ -4,6 +4,7 @@ import "../styles/Headnik.css"
 function Headnik() {
     return (
         <header className='head-nike'>
+            
             <ul>
                 <li>Home</li>
                 <li>Adidas</li>
